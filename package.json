@@ -1,0 +1,25 @@
+{
+  "name": "vc-pp",
+  "version": "0.1.0",
+  "description": "Virtual currency payment provider",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Truemedia/vc-pp.git"
+  },
+  "keywords": [
+    "virtual",
+    "currency",
+    "payment",
+    "provider"
+  ],
+  "author": "Wade Penistone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Truemedia/vc-pp/issues"
+  },
+  "homepage": "https://github.com/Truemedia/vc-pp#readme"
+}
